@@ -1,5 +1,7 @@
 # **ScanMe**
 
+https://user-images.githubusercontent.com/102342274/217726823-5fa3fbf9-8c93-4a42-943d-70713a8c2453.mp4
+
 This is a simple bash script to scan a target IP address for open or closed ports.
 
 ### **Usage**
